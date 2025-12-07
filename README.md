@@ -1,14 +1,35 @@
-# Touche AZERTY pour le jeu Palia
+# 🎹 Configuration des touches AZERTY pour **Palia**
 
-Les touches par défaut dans Palia sont en QWERTY. Malheureusement, depuis l'interface graphique, il n'est pas possible de changer toutes les touches pour passer en AZERTY.
-Voici comment changer votre fichier de configuration de Palia pour passer en AZERTY.
+Par défaut, **Palia** utilise un clavier **QWERTY**, et l’interface du jeu ne permet malheureusement pas de modifier toutes les touches pour passer proprement en **AZERTY**.  
+Ce dépôt vous propose donc une configuration prête à l’emploi, simplement en modifiant le fichier de paramètres du jeu.
 
-- Faire la touche Windows + R
-- Entrer appdata puis valider avec OK
-- Aller dans le dossier Local -->  Palia --> Saved --> Config --> WindowsClient
-- Ouvrir le fichier GameUserSettings.ini
-- Remplacer la ligne 6 InputSettings=*** par la ligne disponible dans le fichier InputSettings.txt du dépôt.
-- Sauvegarder le fichier
-- Enjoy
+---
 
-Testé avec la version 0.197.0
+## 🛠️ Installation
+
+Suivez ces étapes pour appliquer la configuration AZERTY :
+
+1. **Ouvrir l’explorateur AppData**
+   - Appuyez sur **Windows + R**
+   - Tapez `appdata` puis validez avec **OK`
+
+2. **Naviguer jusqu'au dossier de configuration**
+   - Allez dans :  
+     `AppData` → `Local` → `Palia` → `Saved` → `Config` → `WindowsClient`
+
+3. **Ouvrir le fichier de configuration**
+   - Éditez le fichier **GameUserSettings.ini**
+
+4. **Remplacer la ligne concernée**
+   - Repérez la ligne **6** :  
+     `InputSettings=***`
+   - Remplacez-la par celle fournie dans le fichier **InputSettings.txt** disponible dans ce dépôt.
+
+5. **Sauvegarder**
+   - Enregistrez le fichier, relancez le jeu… et profitez !
+
+---
+
+## ✔️ Version testée
+
+Configuration validée sur **Palia 0.197.0**.
