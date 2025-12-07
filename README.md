@@ -30,6 +30,14 @@ Suivez ces étapes pour appliquer la configuration AZERTY :
 
 ---
 
+## ❗ Problèmes connus
+
+- **Menu de résidence (touche H sur votre parcelle)**  
+  Le déplacement de caméra via les touches du clavier ne fonctionne pas dans ce menu.  
+  Vous pouvez cependant orienter la caméra **en maintenant le clic droit de la souris**, ce qui permet de contourner le problème.
+
+---
+
 ## ✔️ Version testée
 
 Configuration validée sur **Palia 0.197.0**.
