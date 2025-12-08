@@ -36,8 +36,8 @@ Suivez ces étapes pour appliquer la configuration AZERTY :
   Le déplacement de caméra via les touches du clavier ne fonctionne pas dans ce menu.  
   Vous pouvez cependant orienter la caméra **en maintenant le clic droit de la souris**, ce qui permet de contourner le problème.
 
-- **Visite des autres parcelles**  
-  Le déplacement via les touches AZERTY ne fonctionne pas lors de la visite des terrains de d'autres joueurs.
+- **Visite des autres parcelles publiques ou la parcelle d'exemple**  
+  Le déplacement via les touches AZERTY ne fonctionne pas lors de la visite des terrains publiques d'autres joueurs ou du terrain d'exemple.
 
 ---
 
