@@ -11,7 +11,7 @@ Suivez ces étapes pour appliquer la configuration AZERTY :
 
 1. **Ouvrir l’explorateur AppData**
    - Appuyez sur **Windows + R**
-   - Tapez `appdata` puis validez avec **OK`
+   - Tapez `appdata` puis validez avec `OK`
 
 2. **Naviguer jusqu'au dossier de configuration**
    - Allez dans :  
