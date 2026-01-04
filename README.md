@@ -37,10 +37,14 @@ Suivez ces étapes pour appliquer la configuration AZERTY :
   Vous pouvez cependant orienter la caméra **en maintenant le clic droit de la souris**, ce qui permet de contourner le problème.
 
 - **Visite des autres parcelles publiques ou la parcelle d'exemple**  
-  Le déplacement via les touches AZERTY ne fonctionne pas lors de la visite des terrains publiques d'autres joueurs ou du terrain d'exemple.
+  Le déplacement via les touches AZERTY ne fonctionne pas lors de la visite des terrains publiques des autres joueurs ou du terrain d'exemple. (Panneau vert)
+
+- **Clavier AZERTY non pris en charge**
+  Après avoir contacté le support de Palia pour demander d'exposer les touches encore non-configurables même via le fichier de configuration. 
+  Ils m'ont répondu que « Officiellement, Palia ne prend pas en charge les claviers AZERTY ». (Décembre 2025)
 
 ---
 
 ## ✔️ Version testée
 
-Configuration validée sur **Palia 0.197.0**.
+- **Palia 0.198.0**.
