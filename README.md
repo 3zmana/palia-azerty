@@ -47,4 +47,4 @@ Suivez ces étapes pour appliquer la configuration AZERTY :
 
 ## ✔️ Version testée
 
-- **Palia 0.198.0**.
+- **Palia 0.199.0**.
